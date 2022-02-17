@@ -6,7 +6,7 @@ const PADDLE_MARGIN_BOTTOM = 50;
 const BALL_RADIUS = 8;
 
 const BACKGROUND = new Image;
-BACKGROUND.src = "./bg21.jpg";
+BACKGROUND.src = "./color.jpg";
 
 let leftArrow = false
 let rightArrow = false
